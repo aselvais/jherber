@@ -1,6 +1,7 @@
 ![alt text](http://antidot.ca/JherberLogo.PNG "Jherber logo")
 
 Jherber is more than a new JS lib ... It is also a new concept...
+
 And as we say in French after a big mail "J'ai envie de ... " Jherber !
 
 ## About
