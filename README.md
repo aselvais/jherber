@@ -2,7 +2,7 @@
 
 Jherber is more than a new JS lib ... It is also a new concept...
 
-And as we say in French after a big mail "J'ai envie de ... " Jherber !
+And as we say in French after a big meal "J'ai envie de ... " Jherber !
 
 HAPPY CODING :) 
 
