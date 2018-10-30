@@ -4,6 +4,8 @@ Jherber is more than a new JS lib ... It is also a new concept...
 
 And as we say in French after a big mail "J'ai envie de ... " Jherber !
 
+HAPPY CODING :) 
+
 ## About
 
 Jherber is the only JS lib you will ever need. Forget about React, View, Angular and all others ! Jherber was developed with
